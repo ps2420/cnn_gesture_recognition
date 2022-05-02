@@ -1,1 +1,1 @@
-# cnn_gesture_recognition
+# Gesture Recognition
